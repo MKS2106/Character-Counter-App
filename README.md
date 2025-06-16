@@ -80,10 +80,10 @@ export default App;
 
 ## Reflection:
 1. How did you handle state updates when the text changed?
-# To update Text area:
+#### To update Text area:
 -  Used "useState" to store the current input and it state. 
 - created handler function update the text area using onChange  method
-# To update stats: 
+#### To update stats: 
 -  Used "useState" to store the current statistics for characters and words 
 - used handler function update the statistics when there is any change in the input area.
 
